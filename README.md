@@ -15,15 +15,12 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
 - **Freddie Mac:**
   - Aug 2023- Present
 
-- **Hexaware Technologies:**
-  - Jan 2020 - July 2022
-  - Increased revenue by 16% through targeted customer segmentation campaigns.
-  - Built a BERT-based email classification system, enhancing customer service efficiency.
 
 - **Streebo Inc:**
-  - Jun 2018 - Dec 2019
+  - Jun 2018 - July 2022
   - Spearheaded the BASEL III to IV transition, reducing compliance costs by 50%.
-
+  - Increased revenue by 16% through targeted customer segmentation campaigns.
+  - Built a BERT-based email classification system, enhancing customer service efficiency.
 ---
 I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
