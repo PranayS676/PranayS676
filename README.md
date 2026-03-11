@@ -16,7 +16,7 @@ I recently completed my Master's in Computer Science-Data Science from Wilmingto
   - Aug 2023- Present
 
 
-- **Streebo Inc:**
+- **Snibol infotech pvt Ltd:**
   - Jun 2018 - July 2022
   - Spearheaded the BASEL III to IV transition, reducing compliance costs by 50%.
   - Increased revenue by 16% through targeted customer segmentation campaigns.
