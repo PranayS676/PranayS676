@@ -1,117 +1,94 @@
-## 👋 Hi! My name is Pranay and I'm a Data Scientist / Machine Learning Engineer working on Generative AI currently  &nbsp;&nbsp;<a href="mailto:saipranaymasadi@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="60" alt="gmail logo"/></a>
-<a href="https://www.linkedin.com/in/saipranaymasadi/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="80"  alt="linkedin logo" /> </a>
+# Sai Pranay Masadi
 
----
-### 👨‍🎓 About Me
+[![Email](https://img.shields.io/badge/email-saipranaymasadi%40gmail.com-1f6feb?style=flat-square)](mailto:saipranaymasadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-saipranaymasadi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saipranaymasadi/)
+[![GitHub](https://img.shields.io/badge/github-PranayS676-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/PranayS676)
 
-I am a Data Scientist with over 4 years of professional experience spanning industries like E-commerce, Banking, and Mortgage. I specialize in building and deploying scalable machine learning models, with a focus on delivering business value through innovative data-driven solutions.
+Senior AI/ML engineer and technical lead focused on production GenAI systems,
+agentic workflows, RAG platforms, and cloud-native data/ML engineering.
 
-I recently completed my Master's in Computer Science-Data Science from Wilmington University and have hands-on experience with large language models, retrieval-augmented generation, and advanced analytics. worked mostly in Research and Development teams.
+I work across the full AI system lifecycle: data ingestion, retrieval,
+orchestration, evaluation, API design, deployment, monitoring, and regression
+validation. My recent work centers on enterprise GenAI systems for legal and
+real-estate research workflows, with earlier experience across mortgage finance,
+large-scale analytics, and e-commerce ML systems.
 
----
+## Current Focus
 
-### 💼 Professional Highlights
+- Agentic AI systems with workflow memory, tool execution, grounding, and schema-validated contracts.
+- Retrieval-augmented generation across document Q&A, citation generation, issue analysis, and extraction workflows.
+- LLM inference experimentation with vLLM, SGLang, Qwen models, RunPod GPUs, and concurrency benchmarking.
+- Event-driven AI backends using AWS SNS/SQS, Redis, FastAPI, and production-grade observability patterns.
+- Evaluation-first engineering: deterministic tests, regression suites, measurable outputs, and failure-mode analysis.
 
-- **Freddie Mac:**
-  - Aug 2023- Present
+## Experience Snapshot
 
+Experience shown here reflects my main full-time company roles.
 
-- **Snibol infotech pvt Ltd:**
-  - Jun 2018 - July 2022
-  - Spearheaded the BASEL III to IV transition, reducing compliance costs by 50%.
-  - Increased revenue by 16% through targeted customer segmentation campaigns.
-  - Built a BERT-based email classification system, enhancing customer service efficiency.
----
-I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
+| Company | Focus |
+| --- | --- |
+| LexisNexis | Enterprise GenAI, agentic RAG, legal and real-estate due-diligence workflows |
+| Freddie Mac | RAG pipelines, LLM/ML inference APIs, mortgage analytics, Databricks and PySpark platforms |
+| Snibol Infotech | E-commerce ML, segmentation, fraud detection, ETL modernization, production analytics |
 
+## Featured Engineering Work
 
-🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
-* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
-* *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
-* *Data Science Professional Certificate by [__IBM__](https://www.coursera.org/professional-certificates/ibm-data-science)*
-* *Python for Everybody Specialization by [__University of Michigan__](https://online.umich.edu/series/python-for-everybody/)*
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [LLM Inference Lab](https://github.com/PranayS676/llm-inference-lab) | RunPod A100 benchmarking for vLLM, SGLang, Qwen3 models, concurrency, agent workflows, and interactive analysis dashboards | Python, uv, vLLM, SGLang, Qwen, pandas, Plotly |
+| Pramana - Agentic RAG Research Platform | Production-style agentic RAG architecture with document-grounded Q&A, source-cited answers, thread-scoped workspaces, hybrid retrieval, background workers, and evaluation workflows | Python, FastAPI, React, PostgreSQL, pgvector, Redis, MinIO, LangGraph, OpenAI, Voyage AI |
+| [DeepSeek RAGenius](https://github.com/PranayS676/DeepSeek-RAGenius) | Offline PDF Q&A system using local retrieval and local LLM execution for privacy-preserving document analysis | Python, DeepSeek R1, Ollama, Streamlit, vector search |
+| [The Augmented LLM](https://github.com/PranayS676/Multi_AI_Agent) | Multi-step agent workflow for drafting, refining, summarizing, and validating article references | Python, LLM agents, prompt workflows |
+| [Topic Generation Tool](https://github.com/PranayS676/Topic_generation_Laama2-7B) | Topic and content recommendation workflow using open-weight LLMs | Python, Llama 2, NLP |
+| [End-to-End ML Project](https://github.com/PranayS676/End_to_End-Machine-learning-project) | Structured ML pipeline for student performance prediction | Python, scikit-learn, ML pipelines |
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+## Technical Depth
 
-* *Linear Regression*
-* *Logistic Regression*
-* *Support Vector Machines (SVM)*
-* *Decision Trees (DT)*
-* *Random Forests (RF)*
-* *K-Nearest Neighbors (KNN)*
-* *Deep Neural Networks*
-* *Convolutional Neural Networks (CNN)*
-* *Recurrent Neural Networks (RNN)*
-* *Naive Bayes (NB)*
-* *Gradient Boosted Decision Trees (GBDT)*
-* *XGBoost*
-* *Long Short-Term Memory (LSTM)*
+**AI, LLMs, and Agents**
 
-🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
+Agentic AI, multi-agent workflows, RAG, Graph RAG, LangGraph, LangChain, CrewAI,
+tool calling, function calling, MCP, prompt engineering, grounding, citation
+generation, long-context workflows, LLM evaluation.
 
-* *Auto-Regressive (AR) Model*
-* *Auto-Regressive Moving Averages (ARMA) Model*
-* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
-* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
-* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
-* *The Prophet Forecasting Model by Facebook*
+**Machine Learning and Deep Learning**
 
-🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, BERT, fine-tuning, LoRA,
+QLoRA, DeepSpeed, GRPO, reinforcement learning, classification, regression,
+clustering, A/B testing, statistical modeling.
 
-* *Langchain*
-* *LangGraph*
-* *Retrieval Augmented Generation (RAG)*
-* *Llama Index*
-* *OpenAI API*
-* *Mixtral (LLM)*
-* *Llama 2 (LLM)*
-* *GPT - 3 (LLM)*
-* *GPT - 3.5 (LLM)*
-* *GPT - 4 (LLM)*
+**Retrieval and Search**
 
-<h2>🪚🔧 My Skills 😀😀:</h2>
+Pinecone, FAISS, PostgreSQL pgvector, vector search, hybrid search, query
+expansion, multi-stage retrieval, reranking, contextual retrieval, document
+chunking, source attribution, retrieval evaluation.
 
-These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+**Backend and Platform Engineering**
 
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+Python, FastAPI, Flask, REST APIs, WebSockets, Pydantic, SQLAlchemy, Alembic,
+pytest, Playwright, Streamlit, schema validation, event-driven architecture,
+plugin architecture, multi-tenant systems.
 
+**Data, Cloud, and MLOps**
 
+AWS, S3, EC2, ECR, Lambda, SageMaker, CloudWatch, SNS, SQS, Docker, GitHub
+Actions, Databricks, PySpark, SQL, PostgreSQL, MongoDB, Redis, Kafka,
+RabbitMQ, MinIO, CI/CD, model deployment, model monitoring, observability.
 
+## Engineering Principles
 
-### 🏆 Github Profile Trophy
+- Build measurable systems, not demos.
+- Treat evaluation, regression testing, and observability as first-class design constraints.
+- Prefer clear contracts, typed schemas, and reproducible workflows.
+- Keep AI systems grounded in source evidence, traceability, and operational recovery paths.
+- Optimize for maintainability before adding complexity.
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=PranayS676&column=8&theme=nord&no-frame=true"/>
+## Education
 
----
+- Stanford University School of Engineering, Professional Certificate in AI Program.
+- Wilmington University, Master's in Computer Science - Data Science.
 
-### 📊 Github Stats
+## Contact
 
-<div style="display: flex; justify-content: space-around;">
-<img src="https://github-readme-stats.vercel.app/api?username=PranayS676&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=false" height="200" width="380" alt="stats graph"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranayS676&theme=dark" height="200" width="380" alt="stats graph"/>
-</div>
-
----
-
-### 📈 Activity Graph
-
-<a href="https://github.com/PranayS676/github-readme-activity-graph#gh-light-mode-only">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranayS676&theme=react&area=true&hide_border=true#gh-light-mode-only" width="80%">
-</a>
-<a href="https://github.com/PranayS676/github-readme-activity-graph#gh-dark-mode-only">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranayS676&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="80%"></a>
-
----
-
-### 🌟 Projects
-- [**DeepSeek RAGenius**](https://github.com/PranayS676/DeepSeek-RAGenius): A Localized Retrieval-Augmented Generation System for Intelligent PDF Q&A Using DeepSeek and Ollama
-- [**Bald Classification HairStageNet**](https://github.com/PranayS676/Bald_Classification_HairStageNet): Built a CNN-based deep learning model for baldness classification using PyTorch.
-- [**The Augmented LLM**](https://github.com/PranayS676/Multi_AI_Agent): Built a Agent to summaries/refine/make an article and then validate the Data references.
-- [**Artique-Frames Chatbot**](https://github.com/PranayS676/Artique-Frames-NLP-Enhanced-Online-chatbot): Developed an NLP-driven chatbot for enhancing user interaction in e-commerce.
-- [**Topic Generation Tool**](https://github.com/PranayS676/Topic_generation_Laama2-7B): Created a content recommendation tool leveraging the Llama 2-7B model.
-- [**Student Performance Indicator**](https://github.com/PranayS676/End_to_End-Machine-learning-project): Built an end-to-end ML pipeline to forecast student grades.
-
----
-
-Feel free to connect with me for collaborations, discussions, or opportunities!
-Email : saipranaymasadi@gmail.com
+- Email: [saipranaymasadi@gmail.com](mailto:saipranaymasadi@gmail.com)
+- LinkedIn: [linkedin.com/in/saipranaymasadi](https://www.linkedin.com/in/saipranaymasadi/)
+- GitHub: [github.com/PranayS676](https://github.com/PranayS676)
