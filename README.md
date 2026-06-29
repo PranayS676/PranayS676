@@ -1,4 +1,4 @@
-# Sai Pranay Masadi
+# SaiPranay Masadi
 
 [![Email](https://img.shields.io/badge/email-saipranaymasadi%40gmail.com-1f6feb?style=flat-square)](mailto:saipranaymasadi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-saipranaymasadi-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saipranaymasadi/)
